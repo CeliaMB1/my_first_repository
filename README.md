@@ -4,3 +4,5 @@
 - test repository
 
 - ✨Purpose✨ : practice and notes and things
+
+- wowowow i'm confusion
