@@ -1,4 +1,4 @@
-# my-first-repository
+# my_first_repository
 - Celia Murphy-Braunstein
 
 - test repository
